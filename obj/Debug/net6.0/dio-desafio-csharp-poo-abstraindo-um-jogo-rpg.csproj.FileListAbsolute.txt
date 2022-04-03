@@ -1,0 +1,15 @@
+C:\Users\dougl\Desktop\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg\bin\Debug\net6.0\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg.exe
+C:\Users\dougl\Desktop\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg\bin\Debug\net6.0\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg.deps.json
+C:\Users\dougl\Desktop\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg\bin\Debug\net6.0\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg.runtimeconfig.json
+C:\Users\dougl\Desktop\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg\bin\Debug\net6.0\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg.dll
+C:\Users\dougl\Desktop\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg\bin\Debug\net6.0\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg.pdb
+C:\Users\dougl\Desktop\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg\obj\Debug\net6.0\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg.csproj.AssemblyReference.cache
+C:\Users\dougl\Desktop\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg\obj\Debug\net6.0\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\Desktop\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg\obj\Debug\net6.0\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg.AssemblyInfoInputs.cache
+C:\Users\dougl\Desktop\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg\obj\Debug\net6.0\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg.AssemblyInfo.cs
+C:\Users\dougl\Desktop\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg\obj\Debug\net6.0\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg.csproj.CoreCompileInputs.cache
+C:\Users\dougl\Desktop\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg\obj\Debug\net6.0\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg.dll
+C:\Users\dougl\Desktop\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg\obj\Debug\net6.0\refint\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg.dll
+C:\Users\dougl\Desktop\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg\obj\Debug\net6.0\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg.pdb
+C:\Users\dougl\Desktop\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg\obj\Debug\net6.0\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg.genruntimeconfig.cache
+C:\Users\dougl\Desktop\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg\obj\Debug\net6.0\ref\dio-desafio-csharp-poo-abstraindo-um-jogo-rpg.dll

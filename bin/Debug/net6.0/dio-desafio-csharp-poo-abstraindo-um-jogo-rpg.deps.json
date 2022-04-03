@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "dio-desafio-csharp-poo-abstraindo-um-jogo-rpg/1.0.0": {
+        "runtime": {
+          "dio-desafio-csharp-poo-abstraindo-um-jogo-rpg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dio-desafio-csharp-poo-abstraindo-um-jogo-rpg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
